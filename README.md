@@ -5,10 +5,10 @@ dan bisa meng upload shell backdoor yang sudah tertanam di script larapush
 
 # Cara pemakaiannya
 
-git clone https://github.com/Aryaalfahrezi010/larapush.git
+<code>git clone https://github.com/Aryaalfahrezi010/larapush.git
 <br>
 chmod +x larapush.sh
 <br>
 ./larapush.sh atau bash larapush.sh
-<br>
+</code><br><br>
 My Visit Blog : --> https://darkclownsecurity.com

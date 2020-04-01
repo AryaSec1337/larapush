@@ -42,7 +42,7 @@ function header(){
 |       ${PP}Coded By : ${CY}${U}Mr.TenAr${O}${YW}
 |       ${PP}Youtube : ${CY}${U} Dark Clown Security${O}${YW}
 |       ${PP}My Team : ${CY}${U} Dark Clown Security${O}${YW}
-|       ${PP}Github : https://github.com/Aryaalfahrezi010/larapush
+|       ${PP}Github : https://github.com/Aryaalfahrezi010/larapush${O}${YW}
 +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
 "
 }

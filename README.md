@@ -12,4 +12,4 @@ chmod +x larapush.sh
 <br>
 ./larapush.sh atau bash larapush.sh
 </code></pre><br><br>
-My Visit Blog : --> https://darkclownsecurity.com
+The official team blog --> https://darkclownsecurity.com
